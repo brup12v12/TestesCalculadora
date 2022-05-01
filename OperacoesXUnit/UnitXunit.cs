@@ -3,7 +3,7 @@ using Xunit;
 
 namespace OperacoesXUnit
 {
-    public class UnitXunitTest1
+    public class UnitXunit
     {
         [Fact]
         public void SomarDoisNumeros_RetornarResultado()
