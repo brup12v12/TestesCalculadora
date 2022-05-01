@@ -1,0 +1,12 @@
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\bin\Debug\net6.0\ProjetoTestesUC12.deps.json
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\bin\Debug\net6.0\ProjetoTestesUC12.dll
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\bin\Debug\net6.0\ProjetoTestesUC12.pdb
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ProjetoTestesUC12.csproj.AssemblyReference.cache
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ProjetoTestesUC12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ProjetoTestesUC12.AssemblyInfoInputs.cache
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ProjetoTestesUC12.AssemblyInfo.cs
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ProjetoTestesUC12.csproj.CoreCompileInputs.cache
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ProjetoTestesUC12.dll
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\refint\ProjetoTestesUC12.dll
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ProjetoTestesUC12.pdb
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\ProjetoTestesUC12\ProjetoTestesUC12\obj\Debug\net6.0\ref\ProjetoTestesUC12.dll
